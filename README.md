@@ -20,11 +20,11 @@ $ whoami
 $ stack --top
 🛠 React, Node.js, NestJS, PostgreSQL, AWS, Docker, GitHub Actions, Kubernetes
 
-$ experience
-📍 Nimax Digital — Co-founder & CTO  
+$ experience 
 📍 Radical Ledger — Senior Full-Stack Developer + DevOps Consultant  
-📍 WSO2 — Software Engineer Intern  
-📍 Jware Automation — Lead Web Developer (Intern)
+🔙 WSO2 — Software Engineer Intern  
+🔙 Jware Automation — Lead Web Developer (Intern)
+🔙 Nimax Digital — Co-founder
 
 $ focus --areas
 🔍 Problem-solving through systems thinking  
@@ -51,7 +51,7 @@ $ motto
 $ _
 ```
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats-tawny-phi.vercel.app/api?username=taedmonds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -65,4 +65,4 @@ $ _
       <img src="https://github-readme-streak-stats-lime-tau.vercel.app?user=taedmonds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr> 
-</table>
+</table> -->
