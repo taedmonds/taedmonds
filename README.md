@@ -22,9 +22,9 @@ $ stack --top
 
 $ experience 
 📍 Radical Ledger — Senior Full-Stack Developer + DevOps Consultant  
-🔙 WSO2 — Software Engineer Intern  
-🔙 Jware Automation — Lead Web Developer (Intern)
-🔙 Nimax Digital — Co-founder
+📍 WSO2 — Software Engineer Intern  
+📍 Jware Automation — Lead Web Developer (Intern)
+📍 Nimax Digital — Co-founder
 
 $ focus --areas
 🔍 Problem-solving through systems thinking  
