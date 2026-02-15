@@ -20,9 +20,10 @@ $ whoami
 $ stack --top
 🛠 React, Node.js, NestJS, PostgreSQL, AWS, Docker, GitHub Actions, Kubernetes
 
-$ experience 
-📍 Radical Ledger — Senior Full-Stack Developer + DevOps Consultant  
-📍 WSO2 — Software Engineer Intern  
+$ experience
+📍 Expert Intelligence — Full-Stack Developer
+📍 Radical Ledger — Senior Full-Stack Developer + DevOps Consultant (Contract) 
+📍 WSO2 — Software Engineer (Intern)  
 📍 Jware Automation — Lead Web Developer (Intern)
 📍 Nimax Digital — Co-founder
 
